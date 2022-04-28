@@ -2,7 +2,6 @@
 
 <!--
 **NeelGaji/NeelGaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 -->
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" margin-bottom="-20px"></img> </h1>
