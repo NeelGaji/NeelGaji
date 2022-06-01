@@ -37,6 +37,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/neel-gajiwala/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:neelgajiwala79@gmail.com@gmail.com"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-Gmail-F0F6FC?style=for-the-badge&logo=gmail&logoColor=#EA4335"/></a>
+<!--  <a href="https://www.instagram.com/__.neelll.___/"><img alt="Gmail" title="Mail" src="https://img.shields.io/badge/-insta-F0F6FC?style=for-the-badge&logo=instagram&logoColor=#EA4335"/></a> -->
  </p>
 <br/>
 
