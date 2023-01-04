@@ -11,7 +11,8 @@
 <h3 align="center">Engineering Undergraduate<br /><br /></h3>
 
 - 👀 I’m interested in internships
-- 🌴 I’m currently learning Web Development
+- 🚀 I’m a Full Stack Developer
+- 🌴 An aspiring data scientist
 - 📨 Reach me at neelgajiwala79@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
