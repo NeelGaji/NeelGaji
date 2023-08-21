@@ -12,7 +12,7 @@
 
 - 👀 I’m interested in internships
 - 🚀 I’m a Full Stack Developer
-- 🌴 An aspiring Developer
+- 🌴 An aspiring Software Developer
 - 📨 Reach me at neelgajiwala79@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
