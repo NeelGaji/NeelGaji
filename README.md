@@ -8,10 +8,10 @@
 <h1 align ="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"  margin-bottom="-20px" height="60"
          width="60"></img> </h1>
 <h1 align="center">I'm Neel Gajiwala</h1>
-<h3 align="center">Engineering Undergraduate<br /><br /></h3>
+<h3 align="center">Graduate Student at NYU<br /><br /></h3>
 
 - 👀 I’m interested in internships
-- 🚀 I’m a Full Stack Developer
+- 🚀 I’m a Backend Developer specialised in microservices 
 - 🌴 An aspiring Software Developer
 - 📨 Reach me at neelgajiwala79@gmail.com
 
