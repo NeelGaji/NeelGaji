@@ -9,7 +9,7 @@
 
 ### MS in CS @ NYU | Ex-SDE at Barclays | Building AI Agents
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NeelGaji" alt="NeelGaji" /></a> </p>
+<p align="left"> <a href="https://github.com/NeelGaji/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NeelGaji" alt="NeelGaji" /></a> </p>
 
 - 🔭 I'm currently working on **AI agents, Agent Architecture, Full-Stack Applications**
 
